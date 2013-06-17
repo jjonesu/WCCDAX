@@ -1,0 +1,9 @@
+README for WCCDAX: The White Collar Crime Digital Artifact eXtraction tool
+
+Version 0.1; last updated 6/1/2013
+
+This is the repository for George Mason University's WCCDAX project. The project is developing a Python tool to extract digital artifacts specific to white collar crimes. A basic capability will extract artifacts based on simple search terms (like currency symbols and regular expressions for credit card and bank account numbers). An advanced capability will extract artifacts based on the type of white collar crime being investigated (like web servers and HTML pages for a phishing attack, loan applications for mortgage fraud, cancelled check images for an investment scam, etc.). If you're familiar with Microsoft's COFEE triage forensics tool for law enforcement, the concept is similar, but we are collecting artifacts specific to the event of interest rather than the broad net cast by COFEE (and we are sharing our tool publicly).
+
+The project is new, so content will be added as the code is developed. Additional project information will be maintained at http://cfrs.gmu.edu.
+
+
